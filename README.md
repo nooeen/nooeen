@@ -9,12 +9,10 @@
 
 <img width="55%" style="padding-left: 15px;" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on My WordPress Blog, Medium Profile
+- 🔭 I’m currently working on something cool 😉
 
-- 🌱 I’m currently learning TypeScript, React, Flask 
+- 🌱 I’m currently learning TypeScript, React, Machine Learning 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about Python, JavaScript,Freelancing Opportunites, Open Source 
+- 💬 Talk to me about anything [here](https://github.com/nooeen/nooeen/issues)
 
 
