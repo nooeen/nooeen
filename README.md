@@ -24,4 +24,6 @@
 
 - 💬 Talk to me about anything [here](https://github.com/nooeen/nooeen/issues)
 
+- 👨‍💻 Read more about my projects at [neeoon.net](https://neeoon.net)
+
 
