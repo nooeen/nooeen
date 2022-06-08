@@ -20,7 +20,7 @@
 
 - 💬 Talk to me about anything [here](https://github.com/nooeen/nooeen/issues)
 
-- 👨‍💻 Read more about my projects at [neeoon.net](https://neeoon.net)
+- 👨‍💻 Read more about me & my projects at [neeoon.net](https://neeoon.net)
 
 #### My stats
 <p align="left">
