@@ -48,7 +48,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,neovim" />
 
 ##### Creative
-<img src="https://skillicons.dev/icons?i=ableton,au,ps,ai,ae,pr,figma" />
+<img src="https://skillicons.dev/icons?i=ableton,au,ps,ai,ae,pr,figma,blender" />
 
 <p>&thinsp;</p>
 
