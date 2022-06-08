@@ -9,10 +9,7 @@
   </a> -->
 </p>
 
-<!-- <p float="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=nooeen&show_icons=true&include_all_commits=true&include_all_commits=true&border_radius=30" width="400" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooeen&layout=compact&border_radius=30" width="340" /> 
-</p> -->
+
 
 #### About me
 
@@ -26,4 +23,10 @@
 
 - 👨‍💻 Read more about my projects at [neeoon.net](https://neeoon.net)
 
+#### My stats
+
+<p float="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=nooeen&show_icons=true&include_all_commits=true&include_all_commits=true&border_radius=30" width="400" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooeen&layout=compact&border_radius=30" width="340" /> 
+</p>
 
