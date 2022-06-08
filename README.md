@@ -18,12 +18,15 @@
 
 - 💬 Talk to me about anything [here](https://github.com/nooeen/nooeen/issues)
 
-- 👨‍💻 Read more about me & my projects at [neeoon.net](https://neeoon.net)
+- 👨‍💻 Get to know me and contact me at [neeoon.net](https://neeoon.net)
 
 <p>&thinsp;</p>
 
-#### 👋 Reach me
-
+#### 📊 Stats 
+<p float="left">
+<img align="top" width="37%" height="37%" src="https://github-readme-stats.vercel.app/api?username=nooeen&show_icons=trueinclude_all_commits=true&count_private=true&border_radius=10" />
+<img align="top" width="31%" height="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooeen&border_radius=10&layout=compact" /> 
+</p>
 
 <p>&thinsp;</p>
 
@@ -49,13 +52,5 @@
 
 ##### Creative
 <img src="https://skillicons.dev/icons?i=ableton,au,ps,ai,ae,pr,figma,blender" />
-
-<p>&thinsp;</p>
-
-#### 📊 Stats 
-<p float="left">
-<img align="top" width="37%" height="37%" src="https://github-readme-stats.vercel.app/api?username=nooeen&show_icons=trueinclude_all_commits=true&count_private=true&border_radius=10" />
-<img align="top" width="31%" height="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooeen&border_radius=10&layout=compact" /> 
-</p>
 
 <p>&thinsp;</p>
