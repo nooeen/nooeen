@@ -27,6 +27,7 @@
 <!-- <p float="left">
 <img align="top" width="69%" height="69%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,sass,js,ts,java,python,php,mysql,postgres,kotlin,c,cpp,json,yaml,xml,lua,bash" alt="GitHub WidgetBox" />
 </p> -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 #### 📊 Stats 
 <p float="left">
