@@ -1,6 +1,6 @@
 <p>
   <img src="header.png" align="left" alt="👋 Hi there! I'm Ngoc Nguyen (neeoon)" title="👋 Hi there! I'm Ngoc Nguyen (neeoon)"/>
-  &nbsp;
+  &thinsp;
 </p>
 
 <!-- <p align="center">
