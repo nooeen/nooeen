@@ -22,7 +22,7 @@
 
 #### Skill 💻
 <p float="left">
-<img align="top" width="37%" height="37%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,sass,js,ts,java,python,php,mysql,postgres,kotlin,c,cpp,json,yaml,xml,lua,bash" alt="GitHub WidgetBox" />
+<img align="top" width="69%" height="69%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,sass,js,ts,java,python,php,mysql,postgres,kotlin,c,cpp,json,yaml,xml,lua,bash" alt="GitHub WidgetBox" />
 </p>
 
 #### Stats 📊
