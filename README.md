@@ -1,5 +1,7 @@
 <img src="header.png" alt="👋 Hi there! I'm Ngoc Nguyen (neeoon)" title="👋 Hi there! I'm Ngoc Nguyen (neeoon)"/>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on My WordPress Blog, Medium Profile
