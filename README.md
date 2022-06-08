@@ -12,7 +12,6 @@
 
 
 #### About me
-
 <img width="55%" style="padding-left: 15px;" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on something cool 😉
@@ -24,7 +23,6 @@
 - 👨‍💻 Read more about my projects at [neeoon.net](https://neeoon.net)
 
 #### My stats
-
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=nooeen&show_icons=true&include_all_commits=true&include_all_commits=true&hide_border=true" width="400" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooeen&layout=compact&hide_border=true" width="340" /> 
