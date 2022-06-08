@@ -2,6 +2,7 @@
   <img src="header.png" align="left" alt="👋 Hi there! I'm Ngoc Nguyen (neeoon)" title="👋 Hi there! I'm Ngoc Nguyen (neeoon)"/>
   &thinsp;
 </p>
+
 <!-- <p align="center">
   <a href="https://github.com/nooeen">
     <img width="140%" height="140%" src="https://github-widgetbox.vercel.app/api/profile?username=nooeen&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
@@ -30,7 +31,24 @@
 <!-- <p float="left">
 <img align="top" width="69%" height="69%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,sass,js,ts,java,python,php,mysql,postgres,kotlin,c,cpp,json,yaml,xml,lua,bash" alt="GitHub WidgetBox" />
 </p> -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+##### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,py" />
+
+##### Frameworks/Libraries
+<img src="https://skillicons.dev/icons?i=bootstrap,react,redux,nextjs,flutter" />
+
+##### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,firebase,mongodb,mysql,sqlite" />
+
+##### Deploy
+<img src="https://skillicons.dev/icons?i=netlify,heroku,cloudflare" />
+
+##### Editors
+<img src="https://skillicons.dev/icons?i=vscode,neovim" />
+
+##### Creative
+<img src="https://skillicons.dev/icons?i=ableton,au,ps,ai,ae,pr,figma" />
 
 <p>&thinsp;</p>
 
