@@ -1,3 +1,16 @@
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
 <!-- <img src="header.png" alt="👋 Hi there! I'm Ngoc Nguyen (neeoon)" title="👋 Hi there! I'm Ngoc Nguyen (neeoon)"/> -->
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nooeen&data=followers,repositories,stars,commits)](https://github.com/nooeen)
