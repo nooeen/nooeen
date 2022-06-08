@@ -21,7 +21,7 @@
 
 #### Skill & Stats 💻
 <p float="left">
-<img align="top" width="35%" height="35%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,sass,js,ts,java,python,php,mysql,postgres,kotlin,c,cpp,json,yaml,xml,lua,bash&includeNames=true" alt="GitHub WidgetBox" />
+<img align="top" width="35%" height="35%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,sass,js,ts,java,python,php,mysql,postgres,kotlin,c,cpp,json,yaml,xml,lua,bash" alt="GitHub WidgetBox" />
 <img align="top" width="25%" height="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooeen&hide_border=true" /> 
 <img align="top" width="37%" height="37%" src="https://github-readme-stats.vercel.app/api?username=nooeen&show_icons=trueinclude_all_commits=true&count_private=true&hide_border=true" />
 </p>
