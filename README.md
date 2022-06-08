@@ -11,10 +11,10 @@
 
 
 
-#### About me
+#### About me 👨‍💻
 <img width="55%" style="padding-left: 15px;" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on something cool 😉
+- 🔭 I’m working on something cool 😉
 
 - 🌱 I’m currently learning TypeScript, React, Machine Learning 
 
@@ -22,14 +22,18 @@
 
 - 👨‍💻 Read more about me & my projects at [neeoon.net](https://neeoon.net)
 
-#### Reach me
+#### Reach me 👋
 
-#### My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<details>
+  <summary><b>My skills</b></summary>
+  <p></p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+</details>
 
-#### My stats
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=nooeen&show_icons=trueinclude_all_commits=true&count_private=true&hide_border=true" width="400" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooeen&layout=compact&hide_border=true" width="340" /> 
-</p>
-
+<details>
+  <summary><b>My stats</b></summary>
+  <p align="left">
+     <img src="https://github-readme-stats.vercel.app/api?username=nooeen&show_icons=trueinclude_all_commits=true&count_private=true&hide_border=true" width="400" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooeen&layout=compact&hide_border=true" width="340" /> 
+  </p>
+</details>
