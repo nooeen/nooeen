@@ -13,8 +13,8 @@
 - 💬 Talk to me about Python, JavaScript,Freelancing Opportunites, Open Source 
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nooeen&show_icons=true&include_all_commits=true&include_all_commits=true" width="100" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooeen&layout=compact" width="100" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=nooeen&show_icons=true&include_all_commits=true&include_all_commits=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooeen&layout=compact" width="420" /> 
 </p>
 
 <a href="https://github.com/nooeen"><img src="https://github-readme-stats.vercel.app/api?username=nooeen&show_icons=true&include_all_commits=true&hide_border=true&include_all_commits=true" alt="Anurag's github stats" /></a> | <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/nooeen)"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooeen&hide_border=true&layout=compact" /></a>
