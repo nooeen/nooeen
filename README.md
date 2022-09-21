@@ -14,7 +14,7 @@
 
 - 🔭 I’m working on something cool 😉
 
-- 🌱 I’m currently learning TypeScript, React, Machine Learning 
+- 🌱 I’m currently learning WebGL, Machine Learning 
 
 - 💬 Talk to me about anything [here](https://github.com/nooeen/nooeen/issues)
 
@@ -36,7 +36,7 @@
 </p> -->
 
 ##### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,py" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,dart,py,cpp,java" />
 
 ##### Frameworks/Libraries
 <img src="https://skillicons.dev/icons?i=bootstrap,react,redux,nextjs,flutter" />
