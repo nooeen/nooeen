@@ -39,16 +39,16 @@
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,dart,py,cpp,java" />
 
 ##### Frameworks/Libraries
-<img src="https://skillicons.dev/icons?i=bootstrap,react,redux,nextjs,flutter" />
+<img src="https://skillicons.dev/icons?i=bootstrap,react,redux,nextjs,wordpress,flutter" />
 
 ##### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,firebase,mongodb,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,redis,php,firebase,mongodb,mysql,sqlite" />
 
 ##### Deploy
-<img src="https://skillicons.dev/icons?i=netlify,heroku,cloudflare" />
+<img src="https://skillicons.dev/icons?i=netlify,heroku,docker,cloudflare" />
 
 ##### Editors
-<img src="https://skillicons.dev/icons?i=vscode,neovim" />
+<img src="https://skillicons.dev/icons?i=vscode,neovim,bash" />
 
 ##### Creative
 <img src="https://skillicons.dev/icons?i=ableton,au,ps,ai,ae,pr,figma,blender" />
