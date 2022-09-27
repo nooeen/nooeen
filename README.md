@@ -53,4 +53,4 @@
 <img src="https://skillicons.dev/icons?i=ableton,au,ps,ai,ae,pr,figma" />
 <img src="https://skillicons.dev/icons?i=ps,ai,figma," />
 <img src="https://skillicons.dev/icons?i=ae,pr," />
-<img width="42px" height="42px" src="cinema4d.png" />
+<img width="44px" height="44px" src="cinema4d.png" />
