@@ -48,9 +48,13 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,neovim,bash" />
 
-##### Creative
+##### Graphics
 
 <img src="https://skillicons.dev/icons?i=ps,ai,figma," />
 <img src="https://skillicons.dev/icons?i=ae,pr," />
-<img src="https://skillicons.dev/icons?i=ableton,au" />
 <img width="45px" height="45px" src="cinema4d.png" />
+
+##### Music
+
+<img src="https://skillicons.dev/icons?i=ableton,au" />
+<img width="45px" height="45px" src="rekordbox.png" />
