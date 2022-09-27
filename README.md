@@ -38,7 +38,7 @@
 
 ##### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,redis,php,firebase,mongodb,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,redis,firebase,mongodb,mysql,sqlite" />
 
 ##### Deploy
 
