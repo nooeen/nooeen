@@ -30,11 +30,11 @@
 
 ##### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,dart,py,cpp,java" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,dart,py,cpp,java,md,solidity" />
 
 ##### Frameworks/Libraries
 
-<img src="https://skillicons.dev/icons?i=bootstrap,react,redux,nextjs,wordpress,flutter" />
+<img src="https://skillicons.dev/icons?i=bootstrap,materialui,remix,react,tailwind,redux,nextjs,gatsby,wordpress,flutter" />
 
 ##### Backend
 
@@ -42,7 +42,7 @@
 
 ##### Deploy
 
-<img src="https://skillicons.dev/icons?i=netlify,heroku,docker,cloudflare" />
+<img src="https://skillicons.dev/icons?i=netlify,heroku,vercel,docker,aws,azure,gcp,linux,cloudflare" />
 
 ##### Editors
 
