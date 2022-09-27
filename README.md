@@ -50,7 +50,7 @@
 
 ##### Creative
 
-<img src="https://skillicons.dev/icons?i=ableton,au,ps,ai,ae,pr,figma" />
 <img src="https://skillicons.dev/icons?i=ps,ai,figma," />
 <img src="https://skillicons.dev/icons?i=ae,pr," />
+<img src="https://skillicons.dev/icons?i=ableton,au" />
 <img width="45px" height="45px" src="cinema4d.png" />
