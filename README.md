@@ -57,6 +57,7 @@
 ##### Music
 
 <p float="left">
-<img src="https://skillicons.dev/icons?i=ableton,au" /> <br />
+<img src="https://skillicons.dev/icons?i=ableton,au" />
+<p>&thinsp;</p>
 <img width="47px" height="47px" src="rekordbox.png" />
 </p>
