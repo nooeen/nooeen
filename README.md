@@ -62,7 +62,7 @@
 
 <p float="left">
 <img src="https://skillicons.dev/icons?i=ableton,au,ps,ai,ae,pr,figma" />
-<img width="64px" height="46px" src="cinema4d.png" />
+<img width="46px" height="46px" src="cinema4d.png" />
 </p>
 
 <p>&thinsp;</p>
