@@ -52,7 +52,7 @@
 
 ##### Creative
 <span><img src="https://skillicons.dev/icons?i=ableton,au,ps,ai,ae,pr,figma,blender" />
-<img width="10%" src="cinema4d.png" />
+<img width="6%" src="cinema4d.png" />
 </span>
 
 <p>&thinsp;</p>
