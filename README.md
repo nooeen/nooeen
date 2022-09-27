@@ -10,11 +10,12 @@
 </p> -->
 
 #### 👨‍💻 About me
+
 <img width="55%" style="padding-left: 15px;" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m working on something cool 😉
 
-- 🌱 I’m currently learning WebGL, Machine Learning 
+- 🌱 I’m currently learning WebGL, Machine Learning
 
 - 💬 Talk to me about anything [here](https://github.com/nooeen/nooeen/issues)
 
@@ -22,7 +23,8 @@
 
 <p>&thinsp;</p>
 
-#### 📊 Stats 
+#### 📊 Stats
+
 <p float="left">
 <img align="top" width="37%" height="37%" src="https://github-readme-stats.vercel.app/api?username=nooeen&show_icons=trueinclude_all_commits=true&count_private=true&border_radius=10" />
 <img align="top" width="31%" height="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooeen&border_radius=10&layout=compact" /> 
@@ -31,28 +33,36 @@
 <p>&thinsp;</p>
 
 #### 💻 Skill
+
 <!-- <p float="left">
 <img align="top" width="69%" height="69%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,sass,js,ts,java,python,php,mysql,postgres,kotlin,c,cpp,json,yaml,xml,lua,bash" alt="GitHub WidgetBox" />
 </p> -->
 
 ##### Languages
+
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,dart,py,cpp,java" />
 
 ##### Frameworks/Libraries
+
 <img src="https://skillicons.dev/icons?i=bootstrap,react,redux,nextjs,wordpress,flutter" />
 
 ##### Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,redis,php,firebase,mongodb,mysql,sqlite" />
 
 ##### Deploy
+
 <img src="https://skillicons.dev/icons?i=netlify,heroku,docker,cloudflare" />
 
 ##### Editors
+
 <img src="https://skillicons.dev/icons?i=vscode,neovim,bash" />
 
 ##### Creative
-<span><img src="https://skillicons.dev/icons?i=ableton,au,ps,ai,ae,pr,figma" />
+
+<p float="left">
+<img src="https://skillicons.dev/icons?i=ableton,au,ps,ai,ae,pr,figma" />
 <img width="6.3%" src="cinema4d.png" />
-</span>
+</p>
 
 <p>&thinsp;</p>
