@@ -9,7 +9,7 @@
 
 - 🔭 I’m working on something cool 😉
 
-- 🌱 I’m currently learning WebGL, Machine Learning
+- 🌱 I’m currently learning WebGL, Machine Learning, 3D and UI/UX
 
 - 💬 Talk to me about anything [here](https://github.com/nooeen/nooeen/issues)
 
