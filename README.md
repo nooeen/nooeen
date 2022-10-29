@@ -42,7 +42,7 @@
 
 ##### Deploy
 
-<img src="https://skillicons.dev/icons?i=docker,netlify,heroku,vercel,,ws,azure,gcp,linux,cloudflare" />
+<img src="https://skillicons.dev/icons?i=docker,netlify,heroku,vercel,ws,azure,gcp,linux,cloudflare" />
 
 ##### Editors
 
