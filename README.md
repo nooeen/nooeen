@@ -38,11 +38,11 @@
 
 ##### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,redis,firebase,mongodb,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,firebase,mongodb,mysql,postgres,sqlite,redis" />
 
 ##### Deploy
 
-<img src="https://skillicons.dev/icons?i=netlify,heroku,vercel,docker,aws,azure,gcp,linux,cloudflare" />
+<img src="https://skillicons.dev/icons?i=docker,netlify,heroku,vercel,,ws,azure,gcp,linux,cloudflare" />
 
 ##### Editors
 
