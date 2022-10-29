@@ -30,7 +30,7 @@
 
 ##### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,dart,py,cpp,java,md,solidity" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,dart,py,,solidity,cpp,java" />
 
 ##### Frameworks/Libraries
 
